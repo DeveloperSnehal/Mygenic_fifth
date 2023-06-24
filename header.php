@@ -118,7 +118,7 @@
 								<nav class="mainmenu_wrapper">
 									<ul class="mainmenu nav sf-menu">
 										<li class="active"> <a href="index.php">Home</a></li>
-										<li> <a href="about.html">About Us</a></li>
+										<li> <a href="about-us.php">About Us</a></li>
 										<!-- eof pages -->
 										<li> <a href="pipeline.html">Our Products</a></li>
 										<!-- gallery -->
