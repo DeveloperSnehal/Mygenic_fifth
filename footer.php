@@ -26,7 +26,7 @@
                         <li><a href="about-us.php">About Us</a></li>
                         <li><a href="product.php">Our Products</a></li>
                         <li><a href="howwedo.php">How We Do?</a></li>
-                        <li><a href="#">Contact Us</a></li>
+                        <li><a href="contact.php">Contact Us</a></li>
 
                     </ul>
 				</div>

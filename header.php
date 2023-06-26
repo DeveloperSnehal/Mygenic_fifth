@@ -136,7 +136,7 @@
 										<li> <a href="howwedo.php">How We Do?</a></li>
 										<!-- eof blog -->
 										<!-- contacts -->
-										<li> <a href="contact.html">Contacts</a></li>
+										<li> <a href="contact.php">Contacts</a></li>
 										<!-- eof contacts -->
 									</ul>
 								</nav>
