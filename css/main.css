@@ -3877,7 +3877,7 @@ div.ppt {
 }
 
 .section_padding_top_150>[class*=container] {
-    padding-top: 150px
+    padding-top: 90px
 }
 
 .section_padding_bottom_0>[class*=container] {
@@ -3933,7 +3933,7 @@ div.ppt {
 }
 
 .section_padding_bottom_150>[class*=container] {
-    padding-bottom: 150px
+    padding-bottom: 90px
 }
 
 .section_padding_bottom_165>[class*=container] {
@@ -15135,3 +15135,20 @@ a.color-icon.border-icon:hover {
     aspect-ratio: 3/2;
     object-fit: contain;
   }
+
+#ourproducts{
+    color: black;
+}
+#ourproducts .list-heading{
+    background-color: var(--primary);
+    color: white;
+}
+#ourproducts .card{
+  box-shadow:rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+}
+#ourproducts .accordion-item ul li{
+  text-transform: capitalize;
+}
+#ourproducts .accordion-item h2{
+  text-transform: uppercase;
+}
