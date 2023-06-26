@@ -120,7 +120,7 @@
 										<li class="active"> <a href="index.php">Home</a></li>
 										<li> <a href="about-us.php">About Us</a></li>
 										<!-- eof pages -->
-										<li> <a href="pipeline.html">Our Products</a></li>
+										<li> <a href="product.php">Our Products</a></li>
 										<!-- gallery -->
 										<li> <a href="gallery-regular.html">Services</a>
                                           <ul>

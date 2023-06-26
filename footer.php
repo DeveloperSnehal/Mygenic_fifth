@@ -22,9 +22,9 @@
 				<div class="widget widget_twitter topmargin_25">
 					<h4 class="widget-title">Our Company</h4>
                     <ul>
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Our Products</a></li>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="about-us.php">About Us</a></li>
+                        <li><a href="product.php">Our Products</a></li>
                         <li><a href="#">How We Do?</a></li>
                         <li><a href="#">Contact Us</a></li>
 
