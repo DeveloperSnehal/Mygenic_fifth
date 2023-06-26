@@ -133,7 +133,7 @@
 										</li>
 										<!-- eof Gallery -->
 										<!-- blog -->
-										<li> <a href="blog-right.html">How We Do?</a></li>
+										<li> <a href="howwedo.php">How We Do?</a></li>
 										<!-- eof blog -->
 										<!-- contacts -->
 										<li> <a href="contact.html">Contacts</a></li>
