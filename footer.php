@@ -1,12 +1,12 @@
 <footer class="page_footer ds color section_padding_top_100 section_padding_bottom_65 table_section">
-	<div class="container">
+	<div class="container" style="padding-bottom: 40px; padding-top: 50px;">
 		<div class="row">
 			<div class="col-md-3 col-sm-6">
 				<div class="widget widget_text"> <a href="index-2.html"
 						class="logo vertical_logo bottommargin_20">
 						<img src="images\logo\mygenic-logo-tm.png" alt="">
 					</a>
-					<p>Lorem ipsum dlor amet, consetetur sadipscing esed dia nonumy eirmod tempor invidunt.
+					<p>One of the leading Exporter of a premium range of Pharmaceutical Tablets, Pharmaceutical Injection & Anti Cancer Capsules and many more.
 					</p>
 					<p class="darklinks">
                         <a class="social-icon soc-facebook" href="#" title="Facebook"></a>
@@ -32,7 +32,7 @@
 				</div>
 			</div>
 
-			<div class="col-md-3 col-sm-6 text-center text-sm-left">
+			<div class="col-md-3 col-sm-6 text-sm-left">
 				<div class="widget widget_instagram topmargin_25">
 					<h4 class="widget-title">Our Services</h4>
 					<div class="instafeed"> </div>

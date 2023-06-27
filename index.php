@@ -100,7 +100,7 @@
         <div class="row columns_margin_bottom_20">
             <div class="col-md-4 col-sm-6">
                 <div class="teaser hover_icon with_padding big-padding with_border rounded text-center">
-                    <div class="teaser_icon size_big highlight"> <i class="rt-icon2-user"></i> </div>
+                    <div class="teaser_icon size_big highlight"> <i class="rt-icon2-settings"></i> </div>
                     <h4 class="topmargin_20 hover-color2"><a href="team.html">Manufacturing</a></h4>
                     <p class="content-3lines-ellipsis">MyGenic Healthcare Private Limited may manufacture a range of pharmaceutical products including tablets, injections, and anti-cancer capsules.</p>
                     <p class="topmargin_30 bottommargin_0"> <a href="#" class="theme_button color2 inverse min_width_button">Explore More</a> </p>
@@ -108,7 +108,7 @@
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="teaser hover_icon with_padding big-padding with_border rounded text-center with_corner_border">
-                    <div class="teaser_icon size_big highlight"> <i class="rt-icon2-bulb"></i> </div>
+                    <div class="teaser_icon size_big highlight"> <i class="rt-icon2-global"></i> </div>
                     <h4 class="topmargin_20 hover-color2"><a href="departments.html">Exporting</a></h4>
                     <p class="content-3lines-ellipsis">By developing effective processes and partnerships, the company can efficiently export their pharmaceutical products to a range of global markets.</p>
                     <p class="topmargin_30 bottommargin_0"> <a href="#" class="theme_button color2 min_width_button">Explore More</a> </p> <span class="bottom_corners"></span>
@@ -116,7 +116,7 @@
             </div>
             <div class="col-md-4 col-sm-6 col-sm-offset-3 col-md-offset-0">
                 <div class="teaser hover_icon with_padding big-padding with_border rounded text-center">
-                    <div class="teaser_icon size_big highlight"> <i class="rt-icon2-paperplane"></i> </div>
+                    <div class="teaser_icon size_big highlight"> <i class="rt-icon2-lab2"></i> </div>
                     <h4 class="topmargin_20 hover-color2"><a href="pipeline.html">Quality Control</a></h4>
                     <p class="content-3lines-ellipsis">MyGenic Healthcare Private Limited likely has a quality control system in place to ensure that their products meet industry standards and regulations.</p>
                     <p class="topmargin_30 bottommargin_0"> <a href="#" class="theme_button color2 inverse min_width_button">Explore More</a> </p>
@@ -153,7 +153,7 @@
                 <div class="teaser media hover_icon">
                     <div class="media-left">
                         <div class="teaser_icon rounded main_bg_color size_small"> <i
-                                class="rt-icon2-diamond2"></i> </div>
+                                class="rt-icon2-pil"></i> </div>
                     </div>
                     <div class="media-body toppadding_10">
                         <h5 class="hover-color2"><a href="#">Bulk Pharma Export</a></h5>
@@ -163,7 +163,7 @@
                 <div class="teaser media hover_icon">
                     <div class="media-left">
                         <div class="teaser_icon rounded main_bg_color size_small"> <i
-                                class="rt-icon2-cloud"></i> </div>
+                                class="rt-icon2-truck"></i> </div>
                     </div>
                     <div class="media-body toppadding_10">
                         <h5 class="hover-color2"><a href="#">Government Supplies</a></h5>
@@ -172,7 +172,7 @@
                 </div>
                 <div class="teaser media hover_icon">
                     <div class="media-left">
-                        <div class="teaser_icon rounded main_bg_color size_small"> <i class="rt-icon2-tag2"></i> </div>
+                        <div class="teaser_icon rounded main_bg_color size_small"> <i class="rt-icon2-gears"></i> </div>
                     </div>
                     <div class="media-body toppadding_10">
                         <h5 class="hover-color2"><a href="#">Contract Manufacturer</a></h5>
@@ -184,7 +184,7 @@
                 <div class="teaser media hover_icon">
                     <div class="media-left">
                         <div class="teaser_icon rounded main_bg_color size_small"> <i
-                                class="rt-icon2-tag2"></i> </div>
+                                class="rt-icon2-directions_ferry"></i> </div>
                     </div>
                     <div class="media-body toppadding_10">
                         <h5 class="hover-color2"><a href="#">Cold Chain Shipping</a></h5>
@@ -194,7 +194,7 @@
                 <div class="teaser media hover_icon">
                     <div class="media-left">
                         <div class="teaser_icon rounded main_bg_color size_small"> <i
-                                class="rt-icon2-cloud"></i> </div>
+                                class="rt-icon2-ambulance"></i> </div>
                     </div>
                     <div class="media-body toppadding_10">
                         <h5 class="hover-color2"><a href="#">Hospital Supplies</a></h5>
@@ -276,19 +276,22 @@
             <div class="col-sm-12">
                 <h2 class="section_header text-center"> Our Happy Clients </h2>
                 <div class="owl-carousel" data-responsive-lg="3" data-nav="false" data-dots="true">
-                    <blockquote class="with_border with_padding text-center rounded"> <img src="images/faces/01.jpg" alt=""> The team at MyGenic Healthcare responded quickly to an urgent project request. Our project timelines were jeopardized by an unforeseen issue with another vendor and MyGenic came to the rescue.
+                    <blockquote class="with_border with_padding text-center rounded">
+                         <img src="images\testimonials\testimonial-1.png" alt=""> The team at MyGenic Healthcare responded quickly to an urgent project request. Our project timelines were jeopardized by an unforeseen issue with another vendor and MyGenic came to the rescue.
                         <div class="item-meta">
                             <h5 class="highlight hover-dark-color"><a href="#">Jatin Chopra</a></h5>
                             <p class="highlight2">Production Executive</p>
                         </div>
                     </blockquote>
-                    <blockquote class="ls with_border with_padding text-center rounded"> <img src="images/faces/02.jpg" alt=""> In my first project with MyGenic Healthcare I was so impressed with their responsiveness and scientific approach to issues that I have them at the top of my list for quoting on any work in their wheelhouse.
+                    <blockquote class="ls with_border with_padding text-center rounded">
+                         <img src="images\testimonials\testimonial-2.png" alt=""> In my first project with MyGenic Healthcare I was so impressed with their responsiveness and scientific approach to issues that I have them at the top of my list for quoting on any work in their wheelhouse.
                         <div class="item-meta">
                             <h5 class="highlight hover-dark-color"><a href="#">Shweta Chavhan</a></h5>
                             <p class="highlight2">Analytical Chemist</p>
                         </div>
                     </blockquote>
-                    <blockquote class="with_border with_padding text-center rounded"> <img src="images/faces/03.jpg" alt=""> MyGenic Healthcare came to our rescue and allowed us to get our Phase I trial back on track after a well-known CDMO failed to release our CTM. We are now recruiting patients, thanks to MyGenic Healthcare!.
+                    <blockquote class="with_border with_padding text-center rounded">
+                         <img src="images\testimonials\testimonial-3.png" alt=""> MyGenic Healthcare came to our rescue and allowed us to get our Phase I trial back on track after a well-known CDMO failed to release our CTM. We are now recruiting patients, thanks to MyGenic Healthcare!.
                         <div class="item-meta">
                             <h5 class="highlight hover-dark-color"><a href="#">Nikhil Shinde</a></h5>
                             <p class="highlight2">R and D chemist</p>
@@ -312,7 +315,7 @@
 				<div class="isotope_container isotope row masonry-layout columns_margin_bottom_20">
 					<div class="isotope-item col-lg-3 col-md-6 col-sm-12">
 						<div class="vertical-item content-padding text-center with_border rounded">
-							<div class="item-media top_rounded overflow_hidden"> <img src="images/team/01.jpg" alt="" /> </div>
+							<div class="item-media top_rounded overflow_hidden"> <img src="images\team\team-1.png" alt="" /> </div>
 							<div class="item-content">
 								<h4 class="bottommargin_0 " style="font-size: 20px;"> <a href="team-single.html">Namrata Patil</a> </h4>
 								<p class="highlight2 medium fontsize_14">Manager</p>
@@ -322,7 +325,7 @@
 					</div>
 					<div class="isotope-item col-lg-3 col-md-6 col-sm-12">
 						<div class="vertical-item content-padding text-center with_border rounded">
-							<div class="item-media top_rounded overflow_hidden"> <img src="images/team/02.jpg" alt="" /> </div>
+							<div class="item-media top_rounded overflow_hidden"> <img src="images\team\team-2.png" alt="" /> </div>
 							<div class="item-content">
 								<h4 class="bottommargin_0 " style="font-size: 20px;"> <a href="team-single.html">Sapana Gupta</a> </h4>
 								<p class="highlight2 medium fontsize_14">Assistant Manager</p>
@@ -332,7 +335,7 @@
 					</div>
 					<div class="isotope-item col-lg-3 col-md-6 col-sm-12">
 						<div class="vertical-item content-padding text-center with_border rounded">
-							<div class="item-media top_rounded overflow_hidden"> <img src="images/team/03.jpg" alt="" /> </div>
+							<div class="item-media top_rounded overflow_hidden"> <img src="images\team\team-3.png" alt="" /> </div>
 							<div class="item-content">
 								<h4 class="bottommargin_0 "style="font-size: 20px;"> <a href="team-single.html">Vikrant Pawar</a> </h4>
 								<p class="highlight2 medium fontsize_14">HR</p>
@@ -342,7 +345,7 @@
 					</div>
 					<div class="isotope-item col-lg-3 col-md-6 col-sm-12">
 						<div class="vertical-item content-padding text-center with_border rounded">
-							<div class="item-media top_rounded overflow_hidden"> <img src="images/team/04.jpg" alt="" /> </div>
+							<div class="item-media top_rounded overflow_hidden"> <img src="images\team\team-4.png" alt="" /> </div>
 							<div class="item-content">
 								<h4 class="bottommargin_0 "style="font-size: 20px;"> <a href="team-single.html">Shrikant Bhalekar</a> </h4>
 								<p class="highlight2 medium fontsize_14">Executive Engineer</p>
