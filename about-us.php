@@ -20,7 +20,7 @@
 <section class="ls section_padding_top_150 section_padding_bottom_150">
 	<div class="container">
 		<div class="row">
-			<div class="col-sm-12"> <img src="images/gallery/06.jpg" alt="" class="alignleft">
+			<div class="col-sm-12"> <img src="images\about-us.jpg" alt="" class="alignleft" style="box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;">
 				<h2 class="section_header">About Us</h2>
 				<p>We are a leading pharmaceutical company dedicated to providing high-quality products and services to
 					businesses in the healthcare industry. With our extensive expertise, cutting-edge technologies and
@@ -71,13 +71,13 @@
 		<div class="row">
 			<div class="col-sm-4">
 				<div class="teaser text-center">
-					<div class="teaser_icon main_bg_color size_normal round"> <i class="fa fa-comments-o"></i> </div>
+					<div class="teaser_icon main_bg_color size_normal round"> <i class="rt-icon2-medal"></i> </div>
 					<h3 class="text-uppercase">Experience & Core Knowledge</h3>
 				</div>
 			</div>
 			<div class="col-sm-4">
 				<div class="teaser text-center">
-					<div class="teaser_icon main_bg_color size_normal round"> <i class="fa fa-star-o"></i> </div>
+					<div class="teaser_icon main_bg_color size_normal round"> <i class="rt-icon2-expand"></i> </div>
 					<h3 class="text-uppercase"> CLIENT-CENTRIC APPROACH </h3>
 				</div>
 			</div>
@@ -91,13 +91,13 @@
 		<div class="row" style="display: flex; justify-content: center;">
 			<div class="col-sm-4">
 				<div class="teaser text-center">
-					<div class="teaser_icon main_bg_color size_normal round"> <i class="fa fa-comments-o"></i> </div>
+					<div class="teaser_icon main_bg_color size_normal round"> <i class="rt-icon2-suitcase3"></i> </div>
 					<h3 class="text-uppercase"> ETHICAL BUSINESS DEALINGS </h3>
 				</div>
 			</div>
 			<div class="col-sm-4">
 				<div class="teaser text-center">
-					<div class="teaser_icon main_bg_color size_normal round"> <i class="fa fa-star-o"></i> </div>
+					<div class="teaser_icon main_bg_color size_normal round"> <i class="fa fa-inr"></i> </div>
 					<h3 class="text-uppercase"> COMPETITIVE PRICING </h3>
 				</div>
 			</div>
@@ -113,7 +113,7 @@
 			<div class="col-lg-12 col-md-12 col-sm-12 mt-2 card" data-aos="flip-left" data-aos-easing="ease-out-cubic"
 				data-aos-duration="2000">
 				<div class="row">
-					<h3 class="text-center pt-5" style="padding-top: 50px;">FACTSHEET</h3>
+					<h3 class="text-center pt-5" style="padding-bottom: 10px;padding-top: 10px;background-color: #18a0b1;">FACTSHEET</h3>
 					<div class="container">
 						<div class="row px-5">
 							<h5 class="fw-bolder text-decoration-underline">Basic Information</h5>
@@ -311,47 +311,37 @@
 					data-responsive-xs="1">
 					<article
 						class="vertical-item content-padding big-padding post format-standard with_border rounded text-center">
-						<div class="item-media"> <img src="images/gallery/01.jpg" alt="">
+						<div class="item-media"> <img src="images\certificates\certificate-1.png" alt="">
 							<div class="media-links">
 								<div class="links-wrap"> <a class="p-view prettyPhoto " title=""
-										data-gal="prettyPhoto[gal]" href="images/gallery/01.jpg"></a> </div>
+										data-gal="prettyPhoto[gal]" href="images\certificates\certificate-1.png"></a> </div>
 							</div>
 						</div>
 					</article>
 					<article
 						class="vertical-item content-padding big-padding post format-standard with_border rounded text-center">
-						<div class="item-media"> <img src="images/gallery/02.jpg" alt="">
+						<div class="item-media"> <img src="images\certificates\certificate-2.jpg" alt="">
 							<div class="media-links">
 								<div class="links-wrap"> <a class="p-view prettyPhoto " title=""
-										data-gal="prettyPhoto[gal]" href="images/gallery/02.jpg"></a> </div>
+										data-gal="prettyPhoto[gal]" href="images\certificates\certificate-2.jpg"></a> </div>
 							</div>
 						</div>
 					</article>
 					<article
 						class="vertical-item content-padding big-padding post format-standard with_border rounded text-center">
-						<div class="item-media"> <img src="images/gallery/03.jpg" alt="">
+						<div class="item-media"> <img src="images\certificates\certificate-4.png" alt="">
 							<div class="media-links">
 								<div class="links-wrap"> <a class="p-view prettyPhoto " title=""
-										data-gal="prettyPhoto[gal]" href="images/gallery/03.jpg"></a> </div>
+										data-gal="prettyPhoto[gal]" href="images\certificates\certificate-4.png"></a> </div>
 							</div>
 						</div>
 					</article>
 					<article
 						class="vertical-item content-padding big-padding post format-standard with_border rounded text-center">
-						<div class="item-media"> <img src="images/gallery/04.jpg" alt="">
+						<div class="item-media"> <img src="images\certificates\certificate-5.png" alt="">
 							<div class="media-links">
 								<div class="links-wrap"> <a class="p-view prettyPhoto " title=""
-										data-gal="prettyPhoto[gal]" href="images/gallery/04.jpg"></a> </div>
-							</div>
-						</div>
-					</article>
-					<article
-						class="vertical-item content-padding big-padding post format-standard with_border rounded text-center">
-						<div class="item-media"> <img src="images/gallery/05.jpg" alt="">
-							<div class="media-links">
-								<div class="links-wrap"> <a class="p-view prettyPhoto " title=""
-										data-gal="prettyPhoto[gal]" href="images/gallery/05.jpg"></a>
-								</div>
+										data-gal="prettyPhoto[gal]" href="images\certificates\certificate-5.png"></a> </div>
 							</div>
 						</div>
 					</article>
