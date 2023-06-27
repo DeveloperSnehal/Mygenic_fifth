@@ -17,8 +17,8 @@
 <section class="ls section_padding_top_150 section_padding_bottom_150">
   <div class="container" style="padding-bottom:0px;">
         <div class="row">
-            <div class="col-sm-6">
-              <img src="images\how we do\raw-material.png" alt="">
+            <div class="col-sm-6" style="display: flex; justify-content: center;">
+              <img src="images\services\r&d 1.jpg" alt="" style="width: 60%;">
             </div>
             <div class="col-sm-6">
                <h2 class="section_header">Our Purpose</h2>
@@ -38,8 +38,8 @@
                 <p>Our research strategy and implementation is strongly supported by our proficient Intellectual Property (IP) team. Our IP team commands a strong expertise and hold rich experience in chemistry, analytical techniques, dosage forms and global patent law. Over the last decade, we have been consistently challenging patents on several high-value products in the US with First-to-File exclusivity under Hatch-Waxman Act. This helps us in furnishing high-quality generic versions of such products at reasonable costs. Our IP team continuously strives to capture new developments across the company and protects them as an intellectual property.</p>
                 <p>Our R&D centres have been audited and approved by international regulatory authorities, including the US FDA, European, Australian and various other authorities.</p>
             </div>
-            <div class="col-sm-6">
-              <img src="images\how we do\manufacturing.png" alt="">
+            <div class="col-sm-6 align-middle" style="display: grid; justify-items: center;">
+              <img src="images\services\contract manufacturer 2.jpg" alt="" style="width: 75%;">
             </div>
         </div>
     </div>
@@ -48,8 +48,8 @@
 <section class="ls section_padding_top_150 section_padding_bottom_150">
   <div class="container" style="padding-bottom:0px;">
         <div class="row">
-            <div class="col-sm-6">
-              <img src="images\how we do\raw-material.png" alt="">
+            <div class="col-sm-6" style="display: flex;justify-content: center;">
+              <img src="images\services\r&d 3.jpg" alt="" style="width: 60%;">
             </div>
             <div class="col-sm-6">
                <h2 class="section_header">Achievements</h2>

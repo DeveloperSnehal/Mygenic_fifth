@@ -18,7 +18,7 @@
   <div class="container" style="padding-bottom:0px;">
         <div class="row">
             <div class="col-sm-6">
-              <img src="images\how we do\raw-material.png" alt="">
+              <img src="images\services\service5.png" alt="" style="width: 70%;">
             </div>
             <div class="col-sm-6">
                <h2 class="section_header">Top Quality Product Is Always Our First Priority</h2>
@@ -42,8 +42,8 @@
                 <p>GMP certification is a set of guidelines established by regulatory bodies to ensure that pharmaceutical products are manufactured, tested, and controlled according to quality standards. GMP guidelines cover every aspect of the manufacturing process, including the raw materials, facilities, equipment, and personnel used. A company that is GMP certified has demonstrated that it meets these guidelines and is committed to maintaining the highest standards of quality in their products.</p>
                 <p>Mygenic Healthcare Private Limited is a company that is WHO and GMP certified. This means that we have met the stringent standards set by these organizations and have demonstrated our commitment to producing safe, effective, and high-quality pharmaceutical products. These certifications are important for customers and regulatory bodies as they provide assurance that the products produced by Mygenic Healthcare Private Limited meet the highest standards of quality and safety.</p>
             </div>
-            <div class="col-sm-6">
-              <img src="images\how we do\manufacturing.png" alt="">
+            <div class="col-sm-6" style="display: grid; justify-items: center;">
+              <img src="images\services\services4.png" alt="" style="width: 60%;">
             </div>
         </div>
     </div>
@@ -53,7 +53,7 @@
   <div class="container" style="padding-bottom:0px;">
         <div class="row">
             <div class="col-sm-6">
-              <img src="images\how we do\raw-material.png" alt="">
+              <img src="images\services\service6.png" alt="" style="width: 65%;">
             </div>
             <div class="col-sm-6">
                <h2 class="section_header">Crisis Supplies For Covid-19</h2>

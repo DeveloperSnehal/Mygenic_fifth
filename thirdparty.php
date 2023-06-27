@@ -18,7 +18,7 @@
   <div class="container" style="padding-bottom:0px;">
         <div class="row">
             <div class="col-sm-6">
-              <img src="images\how we do\raw-material.png" alt="">
+              <img src="images\services\third_party_manufacturer.jpg" alt="" style="border-radius: 50%;">
             </div>
             <div class="col-sm-6">
                <h2 class="section_header">Who Are Third Party Manufacturers?</h2>
@@ -43,8 +43,8 @@
                 <p><b>Private Label Manufacturers:</b> These companies manufacture products for other companies under their own label. Private label manufacturers can produce a wide range of products, including pharmaceuticals.</p>
                 <p>Overall, any company with the necessary expertise, equipment, and facilities can be a third-party manufacturer for pharmaceutical products.</p>
             </div>
-            <div class="col-sm-6">
-              <img src="images\how we do\manufacturing.png" alt="">
+            <div class="col-sm-6" style="display: grid; justify-items: center;">
+              <img src="images\services\services3.png" alt="" style="width: 70%;">
             </div>
         </div>
     </div>

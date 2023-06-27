@@ -18,7 +18,7 @@
   <div class="container" style="padding-bottom:0px;">
         <div class="row">
             <div class="col-sm-6">
-              <img src="images\how we do\raw-material.png" alt="">
+              <img src="images\services\service7.png" alt="" style="width: 80%;">
             </div>
             <div class="col-sm-6">
                <h2 class="section_header">How We Became A Top Leading Pharmaceutical Export Company?</h2>
@@ -43,8 +43,8 @@
                 <p>Being ISO 9001:2015 certified demonstrates Mygenic Healthcare Private Limited's commitment to quality and continuous improvement. It also provides assurance to our customers that we have implemented a robust quality management system and dedicated to providing high-quality products and services.</p>
                 <p>ISO 9001:2015 certification is recognized globally and is often a requirement for companies to do business with other organizations. By obtaining this certification, Mygenic Healthcare Private Limited has positioned as a trusted and reliable partner for our customers, suppliers, and other stakeholders in the pharmaceutical industry.</p>
             </div>
-            <div class="col-sm-6">
-              <img src="images\how we do\manufacturing.png" alt="">
+            <div class="col-sm-6" style="display: grid; justify-items: center;">
+              <img src="images\services\service8.png" alt="" style="width: 70%;">
             </div>
         </div>
     </div>
@@ -54,7 +54,7 @@
   <div class="container" style="padding-bottom:0px;">
         <div class="row">
             <div class="col-sm-6">
-              <img src="images\how we do\raw-material.png" alt="">
+              <img src="images\services\service9.png" alt="" style="width: 80%;">
             </div>
             <div class="col-sm-6">
                <h2 class="section_header">What Helped Us To Become The Top Leading Pharmaceutical Exporting Company?</h2>

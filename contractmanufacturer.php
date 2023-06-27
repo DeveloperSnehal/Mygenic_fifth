@@ -18,7 +18,7 @@
   <div class="container" style="padding-bottom:0px;">
         <div class="row">
             <div class="col-sm-6">
-              <img src="images\services\SERVICE1.png" alt="" style="w">
+              <img src="images\services\SERVICE1.png" alt="" style="width: 70%;">
             </div>
             <div class="col-sm-6">
                <h2 class="section_header">Top Pharmaceutical Contract Manufacturer In India</h2>
@@ -45,8 +45,8 @@
                 <p>Mygenic Healthcare Private Limited is a leading contract manufacturer of pharmaceutical products. We offer customized solutions for our clients, working closely with them to develop and manufacture products that meet their specific needs and requirements. We offer competitive pricing for our pharmaceutical products and contract manufacturing services, making them an attractive option for customers looking for quality products and services at affordable prices.</p>
                 <p>We offer flexibility in terms of our product offerings and services. We work closely with customers to develop customized solutions that meet their specific needs and requirements.</p>
             </div>
-            <div class="col-sm-6">
-              <img src="images\how we do\manufacturing.png" alt="">
+            <div class="col-sm-6" style="display: grid; justify-items: center;">
+              <img src="images\services\services2.png" alt="" style="width:50%;">
             </div>
         </div>
     </div>
