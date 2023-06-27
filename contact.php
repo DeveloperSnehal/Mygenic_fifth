@@ -13,6 +13,8 @@
         </div>
     </div>
 </section>
+
+
 <section class="ls section_padding_top_100 section_padding_bottom_75">
     <div class="container">
         <div class="row">
@@ -20,8 +22,12 @@
                 <section id="map" class="ls ms" data-address="Terracina, LT, Italia">
                     <!-- marker description and marker icon goes here -->
                     <div class="map_marker_description">
-                    <div class="contact-map mt-5">
-                      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d235.74559106062188!2d73.08760406805347!3d19.02282990000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7e9e98b244589%3A0x45d816890bc90b8f!2sMygenic%20Healthcare%20Pvt.%20Ltd.!5e0!3m2!1sen!2sus!4v1687788269789!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>                    </div>
+                        <div class="contact-map mt-5">
+                            <iframe
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d235.74559106062188!2d73.08760406805347!3d19.02282990000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7e9e98b244589%3A0x45d816890bc90b8f!2sMygenic%20Healthcare%20Pvt.%20Ltd.!5e0!3m2!1sen!2sus!4v1687788269789!5m2!1sen!2sus"
+                                width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy"
+                                referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        </div>
                     </div>
                 </section>
             </div>
@@ -36,7 +42,8 @@
             <div class="col-sm-4 to_animate" data-animation="pullDown">
                 <div class="teaser text-center">
                     <div class="teaser_icon highlight2 size_normal"> <i class="rt-icon2-location2"></i> </div>
-                    <p> Office No- 2 Plot No- 98,<br> Sector 35 Dolphin Platinum Kamothe, <br> Navi Mumbai, Maharashtra, India </p>
+                    <p> Office No- 2 Plot No- 98,<br> Sector 35 Dolphin Platinum Kamothe, <br> Navi Mumbai, Maharashtra,
+                        India </p>
                 </div>
             </div>
             <div class="col-sm-4 to_animate" data-animation="pullDown">
@@ -55,7 +62,8 @@
                             <p class="form-group"> <label for="name">Full Name <span class="required">*</span></label>
                                 <i class="fa fa-user highlight2" aria-hidden="true"></i> <input type="text"
                                     aria-required="true" size="30" value="" name="name" id="name" class="form-control"
-                                    placeholder="Full Name"> </p>
+                                    placeholder="Full Name">
+                            </p>
                             <p class="form-group"> <label for="email">Email address<span
                                         class="required">*</span></label> <i class="fa fa-envelope highlight2"
                                     aria-hidden="true"></i> <input type="email" aria-required="true" size="30" value=""
@@ -63,7 +71,8 @@
                             <p class="form-group"> <label for="subject">Subject<span class="required">*</span></label>
                                 <i class="fa fa-flag highlight2" aria-hidden="true"></i> <input type="text"
                                     aria-required="true" size="30" value="" name="subject" id="subject"
-                                    class="form-control" placeholder="Subject"> </p>
+                                    class="form-control" placeholder="Subject">
+                            </p>
                         </div>
                         <div class="col-sm-6">
                             <p class="contact-form-message form-group"> <label for="message">Message</label> <i
