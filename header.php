@@ -124,11 +124,11 @@
 										<!-- gallery -->
 										<li> <a href="gallery-regular.html">Services</a>
                                           <ul>
-												<li> <a href="#">Contract Manufacturer</a> </li>
-												<li> <a href="#">Third Party Pharma Manufacturer</a> </li>
-												<li> <a href="#">Quality Medicine Supplier</a> </li>
-												<li> <a href="#">Leading Pharmaceutical Exporter</a> </li>
-												<li> <a href="#">Research And Development</a> </li>
+												<li> <a href="contractmanufacturer.php">Contract Manufacturer</a> </li>
+												<li> <a href="thirdparty.php">Third Party Pharma Manufacturer</a> </li>
+												<li> <a href="qualitymedicine.php">Quality Medicine Supplier</a> </li>
+												<li> <a href="leadingpharma.php">Leading Pharmaceutical Exporter</a> </li>
+												<li> <a href="R&D.php">Research And Development</a> </li>
 											</ul>
 										</li>
 										<!-- eof Gallery -->

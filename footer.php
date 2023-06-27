@@ -37,11 +37,11 @@
 					<h4 class="widget-title">Our Services</h4>
 					<div class="instafeed"> </div>
                     <ul>
-                        <li><a href="#">Contract Manufacturer</a></li>
-                        <li><a href="#">Third Party Pharma Manufacturer</a></li>
-                        <li><a href="#">Quality Medicine Supplier</a></li>
-                        <li><a href="#">Leading Pharmaceutical Exporter</a></li>
-                        <li><a href="#">Research & Development</a></li>
+                        <li><a href="contractmanufacturer.php">Contract Manufacturer</a></li>
+                        <li><a href="thirdparty.php">Third Party Pharma Manufacturer</a></li>
+                        <li><a href="qualitymedicine.php">Quality Medicine Supplier</a></li>
+                        <li><a href="leadingpharma.php">Leading Pharmaceutical Exporter</a></li>
+                        <li><a href="R&D.php">Research & Development</a></li>
                     </ul>
 				</div>
 			</div>
