@@ -319,7 +319,7 @@
 							<div class="item-content">
 								<h4 class="bottommargin_0 " style="font-size: 20px;"> <a href="team-single.html">Namrata Patil</a> </h4>
 								<p class="highlight2 medium fontsize_14">Manager</p>
-								<p class="greylinks"> <a href="#" class="social-icon soc-facebook"></a> <a href="#" class="social-icon soc-twitter"></a> <a href="#" class="social-icon soc-google"></a> </p>
+								<p class="greylinks"> <a href="#" class="social-icon soc-facebook"></a> <a href="#" class="social-icon soc-twitter"></a> <a href="#" class="social-icon soc-instagram"></a> </p>
 							</div>
 						</div>
 					</div>
@@ -329,7 +329,7 @@
 							<div class="item-content">
 								<h4 class="bottommargin_0 " style="font-size: 20px;"> <a href="team-single.html">Sapana Gupta</a> </h4>
 								<p class="highlight2 medium fontsize_14">Assistant Manager</p>
-								<p class="greylinks"> <a href="#" class="social-icon soc-facebook"></a> <a href="#" class="social-icon soc-twitter"></a> <a href="#" class="social-icon soc-google"></a> </p>
+								<p class="greylinks"> <a href="#" class="social-icon soc-facebook"></a> <a href="#" class="social-icon soc-twitter"></a> <a href="#" class="social-icon soc-instagram"></a> </p>
 							</div>
 						</div>
 					</div>
@@ -339,7 +339,7 @@
 							<div class="item-content">
 								<h4 class="bottommargin_0 "style="font-size: 20px;"> <a href="team-single.html">Vikrant Pawar</a> </h4>
 								<p class="highlight2 medium fontsize_14">HR</p>
-								<p class="greylinks"> <a href="#" class="social-icon soc-facebook"></a> <a href="#" class="social-icon soc-twitter"></a> <a href="#" class="social-icon soc-google"></a> </p>
+								<p class="greylinks"> <a href="#" class="social-icon soc-facebook"></a> <a href="#" class="social-icon soc-twitter"></a> <a href="#" class="social-icon soc-instagram"></a> </p>
 							</div>
 						</div>
 					</div>
@@ -349,7 +349,7 @@
 							<div class="item-content">
 								<h4 class="bottommargin_0 "style="font-size: 20px;"> <a href="team-single.html">Shrikant Bhalekar</a> </h4>
 								<p class="highlight2 medium fontsize_14">Executive Engineer</p>
-								<p class="greylinks"> <a href="#" class="social-icon soc-facebook"></a> <a href="#" class="social-icon soc-twitter"></a> <a href="#" class="social-icon soc-google"></a> </p>
+								<p class="greylinks"> <a href="#" class="social-icon soc-facebook"></a> <a href="#" class="social-icon soc-twitter"></a> <a href="#" class="social-icon soc-instagram"></a> </p>
 							</div>
 						</div>
 					</div>
