@@ -7,7 +7,6 @@
                 <h2>How We Do?</h2>
                 <ol class="breadcrumb highlightlinks">
                     <li> <a href="index.php"> Home</a> </li>
-                    <li> <a href="#">Pipeline</a> </li>
                     <li class="active">How We Do?</li>
                 </ol>
             </div>
