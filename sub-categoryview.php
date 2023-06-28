@@ -7,7 +7,7 @@
                 <h2>Sub-Category</h2>
                 <ol class="breadcrumb highlightlinks">
                     <li>
-                        <a href="index-2.html">Home</a>
+                        <a href="index.php">Home</a>
                     </li>
                     <li> <a href="product.php">Products</a> </li>
                     <li class="active">Sub-Category</li>

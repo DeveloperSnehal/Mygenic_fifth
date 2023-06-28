@@ -7,7 +7,7 @@
                 <h2>Our Products</h2>
                 <ol class="breadcrumb highlightlinks">
                     <li>
-                        <a href="index-2.html">Home</a>
+                        <a href="index.php">Home</a>
                     </li>
                     <li class="active">Our Products</li>
                 </ol>

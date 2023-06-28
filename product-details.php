@@ -6,7 +6,7 @@
             <div class="col-sm-12 text-center">
                 <h2>Product Details</h2>
                 <ol class="breadcrumb highlightlinks">
-                    <li> <a href="index-2.html"> Home </a> </li>
+                    <li> <a href="index.php"> Home </a> </li>
                     <li> <a href="product.php">Product</a> </li>
                     <li> <a href="sub-categoryview.php">Sub-Category</a> </li>
                     <li class="active">Product Details</li>

@@ -6,7 +6,7 @@
             <div class="col-sm-12 text-center">
                 <h2>Contact Us</h2>
                 <ol class="breadcrumb highlightlinks">
-                    <li> <a href="index-2.html"> Home </a> </li>
+                    <li> <a href="index.php"> Home </a> </li>
                     <li class="active">Contact Us</li>
                 </ol>
             </div>

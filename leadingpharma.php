@@ -6,7 +6,7 @@
             <div class="col-sm-12 text-center">
                 <h2>Leading Pharmaceutical Exporter</h2>
                 <ol class="breadcrumb highlightlinks">
-                    <li> <a href="index-2.html"> Home</a> </li>
+                    <li> <a href="index.php"> Home</a> </li>
                     <li class="active">Leading Pharmaceutical Exporter</li>
                 </ol>
             </div>

@@ -10342,7 +10342,7 @@ section .intro_section .slide_description_wrapper {
         top: 50%;
         left: 50%;
         margin-left: -30px;
-        margin-top: -30px;
+        margin-top: -50px;
         width: 60px;
         height: 60px;
         cursor: pointer;
@@ -10437,7 +10437,7 @@ section .intro_section .slide_description_wrapper {
         display: block;
         width: 30px;
         position: absolute;
-        background-color: #fff;
+        background-color: #ed6f1e;
         content: '';
         left: 0;
         -webkit-transform: rotate(0deg);
