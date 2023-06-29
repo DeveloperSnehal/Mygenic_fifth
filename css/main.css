@@ -5961,6 +5961,13 @@ body.boxed {
     font-weight: 700
 }
 
+.detail-text{
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: #046e7a;
+}
+
 .small-text .big {
     font-size: 24px;
     display: block;

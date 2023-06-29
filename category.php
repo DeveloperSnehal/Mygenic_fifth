@@ -27,50 +27,39 @@
     <div class="container">
         <div class="product-list">
             <div class="row">
-                <div class="col-md-3 col-sm-6">
-                    <div class="white-box">
-                        <div class="product-img">
-                            <img src="images\pharmaceutical_tablets.png">
-                        </div>
-                        <div class="product-bottom">
-                            <div class="product-name">Asus X552CL-SX019D Laptop</div>
-                            <a href="#" class="blue-btn">View Product</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <div class="white-box">
-                        <div class="product-img">
-                            <img src="images\pharmaceutical_tablets.png">
-                        </div>
-                        <div class="product-bottom">
-                            <div class="product-name">ASUS X507 Core i5 - 8th Gen 15.6"</div>
-                            <a href="#" class="blue-btn">View Product</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <div class="white-box">
-                        <div class="product-img">
-                            <img src="images\pharmaceutical_tablets.png">
-                        </div>
-                        <div class="product-bottom">
-                            <div class="product-name">ASUS VivoBook S400CA</div>
-                            <a href="#" class="blue-btn">View Product</a>
+                <?php
+                    require ('connection/connect.php');
+
+                    $category_id=$_GET['category_id'];
+                    $sql = "SELECT * FROM `productdetails` WHERE category_id='$category_id'";
+                    $result = mysqli_query($con,$sql);
+                    $check_crud = mysqli_num_rows($result) > 0;
+
+                    if($check_crud)
+                    {
+                        while($row = mysqli_fetch_array($result))
+                        {
+                            ?>
+                    <div class="col-md-3 col-sm-6">
+                        <div class="white-box">
+                        <div class="product-name"><?php echo $row['Product_Name']; ?></div>
+                            <div class="product-img">
+                              <?php echo '<img class="card-img-top img-fluid" src="./admin/product_images/'.$row['Product_Image'].'" style="height: 200px; width: 200px;" alt=" ">' ?>
+                            </div>
+                            <div class="product-bottom">
+                                <div class="product-name"><span style="color:#ed6f1e;">Product Chemical:</span> <?php echo $row['Product_Chemical']; ?></div>
+                                <a href="sub-categoryview.php?Product_Chemical=<?php echo $row['Product_Chemical']; ?>" class="blue-btn">View Product</a>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-md-3 col-sm-6">
-                    <div class="white-box">
-                        <div class="product-img">
-                            <img src="images\pharmaceutical_tablets.png">
-                        </div>
-                        <div class="product-bottom">
-                            <div class="product-name">Asus laptops</div>
-                            <a href="#" class="blue-btn">View Product</a>
-                        </div>
-                    </div>
-                </div>
+                    <?php
+                        }
+                        }
+                    else
+                    {
+
+                    }
+                ?>
             </div>
         </div>
     </div>
