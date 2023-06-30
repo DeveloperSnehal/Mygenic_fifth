@@ -15,7 +15,7 @@
                                         <h2 class="highlight"> Developing Innovative<br> New Therapies...
                                         </h2>
                                         <p> Our mission is to build a healthier tomorrow for patients<br> with progressive non-viral liver diseases </p>
-                                        <a href="pipeline.html" class="theme_button color2 inverse margin_0">Discover Now</a> <span class="bottom_corners"></span>
+                                        <a href="#" class="theme_button color2 inverse margin_0">Discover Now</a> <span class="bottom_corners"></span>
                                     </div>
                                 </div>
                                 <!-- eof .slide_description -->
@@ -40,7 +40,7 @@
                                         <h2 class="highlight"> To Live Healthy Life </h2>
                                         <p> Our mission is to build a healthier tomorrow for patients<br>
                                             with progressive non-viral liver diseases </p> <a
-                                            href="pipeline.html"
+                                            href="#"
                                             class="theme_button color2 inverse margin_0">
                                             Discover Now
                                         </a> <span class="bottom_corners"></span>
@@ -69,7 +69,7 @@
                                             Commercialization </h2>
                                         <p> Of innovative therapies intended to significantly improve
                                             outcomes in patients<br> suffering from life-threatening
-                                            diseases. </p> <a href="pipeline.html"
+                                            diseases. </p> <a href="#"
                                             class="theme_button color2 inverse margin_0">
                                             Discover Now
                                         </a> <span class="bottom_corners"></span>
@@ -101,25 +101,25 @@
             <div class="col-md-4 col-sm-6">
                 <div class="teaser hover_icon with_padding big-padding with_border rounded text-center">
                     <div class="teaser_icon size_big highlight"> <i class="rt-icon2-settings"></i> </div>
-                    <h4 class="topmargin_20 hover-color2"><a href="team.html">Manufacturing</a></h4>
+                    <h4 class="topmargin_20 hover-color2"><a href="contractmanufacturer.php">Manufacturing</a></h4>
                     <p class="content-3lines-ellipsis">MyGenic Healthcare Private Limited may manufacture a range of pharmaceutical products including tablets, injections, and anti-cancer capsules.</p>
-                    <p class="topmargin_30 bottommargin_0"> <a href="#" class="theme_button color2 inverse min_width_button">Explore More</a> </p>
+                    <p class="topmargin_30 bottommargin_0"> <a href="contractmanufacturer.php" class="theme_button color2 inverse min_width_button">Explore More</a> </p>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6">
                 <div class="teaser hover_icon with_padding big-padding with_border rounded text-center with_corner_border">
                     <div class="teaser_icon size_big highlight"> <i class="rt-icon2-global"></i> </div>
-                    <h4 class="topmargin_20 hover-color2"><a href="departments.html">Exporting</a></h4>
+                    <h4 class="topmargin_20 hover-color2"><a href="leadingpharma.php">Exporting</a></h4>
                     <p class="content-3lines-ellipsis">By developing effective processes and partnerships, the company can efficiently export their pharmaceutical products to a range of global markets.</p>
-                    <p class="topmargin_30 bottommargin_0"> <a href="#" class="theme_button color2 min_width_button">Explore More</a> </p> <span class="bottom_corners"></span>
+                    <p class="topmargin_30 bottommargin_0"> <a href="leadingpharma.php" class="theme_button color2 min_width_button">Explore More</a> </p> <span class="bottom_corners"></span>
                 </div>
             </div>
             <div class="col-md-4 col-sm-6 col-sm-offset-3 col-md-offset-0">
                 <div class="teaser hover_icon with_padding big-padding with_border rounded text-center">
                     <div class="teaser_icon size_big highlight"> <i class="rt-icon2-lab2"></i> </div>
-                    <h4 class="topmargin_20 hover-color2"><a href="pipeline.html">Quality Control</a></h4>
+                    <h4 class="topmargin_20 hover-color2"><a href="qualitymedicine.php">Quality Control</a></h4>
                     <p class="content-3lines-ellipsis">MyGenic Healthcare Private Limited likely has a quality control system in place to ensure that their products meet industry standards and regulations.</p>
-                    <p class="topmargin_30 bottommargin_0"> <a href="#" class="theme_button color2 inverse min_width_button">Explore More</a> </p>
+                    <p class="topmargin_30 bottommargin_0"> <a href="qualitymedicine.php" class="theme_button color2 inverse min_width_button">Explore More</a> </p>
                 </div>
             </div>
         </div>
@@ -147,7 +147,7 @@
         <div class="row">
             <div class="col-md-4">
                 <h2 class="section_header">Services We Provide</h2>
-                 <a href="about.html" class="theme_button color2 inverse min_width_button">About Us</a>
+                 <a href="about-us.php" class="theme_button color2 inverse min_width_button">About Us</a>
                 </div>
             <div class="col-md-4 col-sm-6">
                 <div class="teaser media hover_icon">
@@ -252,12 +252,12 @@
 					<div class="row">
 						<div class="col-md-5">
 							<div class="item-media top_rounded overflow_hidden"> <img src="images\who we are\contract-manufacturer.jpg" alt="">
-								<div class="media-links"> <a class="abs-link" title="" href="event-single-full.html"></a> </div>
+								<div class="media-links"> <a class="abs-link" title="" href="#"></a> </div>
 							</div>
 						</div>
 						<div class="col-md-7">
 							<div class="item-content">
-								<h2 class="entry-title"> <a href="event-single-full.html">WHO WE ARE?</a> </h2>
+								<h2 class="entry-title"> <a href="#">WHO WE ARE?</a> </h2>
 								<p><strong>We are a pharmaceutical company that is committed to improving the health and wellbeing of people globally. Our team of experienced professionals includes scientists, researchers, and pharmaceutical experts who are dedicated to developing innovative solutions to address some of the most pressing healthcare issues of our time.</strong></p>
                                 <p><strong>We specialize in the development, manufacturing, and distribution of high-quality pharmaceutical products that meet the needs of patients, healthcare providers, and partners worldwide. Our products are made using the latest technologies and adhere to strict quality control measures to ensure safety and efficacy.</strong></p>
 							</div>
@@ -317,7 +317,7 @@
 						<div class="vertical-item content-padding text-center with_border rounded">
 							<div class="item-media top_rounded overflow_hidden"> <img src="images\team\team-1.png" alt="" /> </div>
 							<div class="item-content">
-								<h4 class="bottommargin_0 " style="font-size: 20px;"> <a href="team-single.html">Namrata Patil</a> </h4>
+								<h4 class="bottommargin_0 " style="font-size: 20px;"> <a href="#">Namrata Patil</a> </h4>
 								<p class="highlight2 medium fontsize_14">Manager</p>
 								<p class="greylinks"> <a href="#" class="social-icon soc-facebook"></a> <a href="#" class="social-icon soc-twitter"></a> <a href="#" class="social-icon soc-instagram"></a> </p>
 							</div>
@@ -327,7 +327,7 @@
 						<div class="vertical-item content-padding text-center with_border rounded">
 							<div class="item-media top_rounded overflow_hidden"> <img src="images\team\team-2.png" alt="" /> </div>
 							<div class="item-content">
-								<h4 class="bottommargin_0 " style="font-size: 20px;"> <a href="team-single.html">Sapana Gupta</a> </h4>
+								<h4 class="bottommargin_0 " style="font-size: 20px;"> <a href="#">Sapana Gupta</a> </h4>
 								<p class="highlight2 medium fontsize_14">Assistant Manager</p>
 								<p class="greylinks"> <a href="#" class="social-icon soc-facebook"></a> <a href="#" class="social-icon soc-twitter"></a> <a href="#" class="social-icon soc-instagram"></a> </p>
 							</div>
@@ -337,7 +337,7 @@
 						<div class="vertical-item content-padding text-center with_border rounded">
 							<div class="item-media top_rounded overflow_hidden"> <img src="images\team\team-3.png" alt="" /> </div>
 							<div class="item-content">
-								<h4 class="bottommargin_0 "style="font-size: 20px;"> <a href="team-single.html">Vikrant Pawar</a> </h4>
+								<h4 class="bottommargin_0 "style="font-size: 20px;"> <a href="#">Vikrant Pawar</a> </h4>
 								<p class="highlight2 medium fontsize_14">HR</p>
 								<p class="greylinks"> <a href="#" class="social-icon soc-facebook"></a> <a href="#" class="social-icon soc-twitter"></a> <a href="#" class="social-icon soc-instagram"></a> </p>
 							</div>
@@ -347,7 +347,7 @@
 						<div class="vertical-item content-padding text-center with_border rounded">
 							<div class="item-media top_rounded overflow_hidden"> <img src="images\team\team-4.png" alt="" /> </div>
 							<div class="item-content">
-								<h4 class="bottommargin_0 "style="font-size: 20px;"> <a href="team-single.html">Shrikant Bhalekar</a> </h4>
+								<h4 class="bottommargin_0 "style="font-size: 20px;"> <a href="#">Shrikant Bhalekar</a> </h4>
 								<p class="highlight2 medium fontsize_14">Executive Engineer</p>
 								<p class="greylinks"> <a href="#" class="social-icon soc-facebook"></a> <a href="#" class="social-icon soc-twitter"></a> <a href="#" class="social-icon soc-instagram"></a> </p>
 							</div>

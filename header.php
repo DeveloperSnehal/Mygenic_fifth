@@ -122,7 +122,7 @@
 										<!-- eof pages -->
 										<li> <a href="product.php">Our Products</a></li>
 										<!-- gallery -->
-										<li> <a href="gallery-regular.html">Services</a>
+										<li> <a href="#">Services</a>
                                           <ul>
 												<li> <a href="contractmanufacturer.php">Contract Manufacturer</a> </li>
 												<li> <a href="thirdparty.php">Third Party Pharma Manufacturer</a> </li>

@@ -48,7 +48,7 @@
                             </div>
                             <div class="product-bottom">
                                 <div class="product-name"><span style="color:#ed6f1e;">Product Chemical:</span> <?php echo $row['Product_Chemical']; ?></div>
-                                <a href="sub-categoryview.php?Product_Chemical=<?php echo $row['Product_Chemical']; ?>" class="blue-btn">View Product</a>
+                                <a href="sub-categoryview.php?Product_Chemical=<?php echo $row['Product_Chemical']; ?>" class="blue-btn">View Sub-Category</a>
                             </div>
                         </div>
                     </div>

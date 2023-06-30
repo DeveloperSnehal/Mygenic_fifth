@@ -2,7 +2,7 @@
 	<div class="container" style="padding-bottom: 40px; padding-top: 50px;">
 		<div class="row">
 			<div class="col-md-3 col-sm-6">
-				<div class="widget widget_text"> <a href="index-2.html"
+				<div class="widget widget_text"> <a href="index.php"
 						class="logo vertical_logo bottommargin_20">
 						<img src="images\logo\mygenic-logo-tm.png" alt="">
 					</a>
