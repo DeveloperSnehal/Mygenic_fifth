@@ -9725,6 +9725,11 @@ body.active-side-header.slide-right .page_header_side {
 .page_breadcrumbs_Contact-Us.parallax {
     background-image: url(../img/parallax/Contact-Us.jpg)
 }
+.page_breadcrumbs_Product-Details.parallax {
+    background-image: url(../img/parallax/Product-Details.jpg)
+}
+
+
 
 .page_testimonials.parallax {
     background-image: url(../img/parallax/testimonials.jpg)
