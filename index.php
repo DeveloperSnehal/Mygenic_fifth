@@ -12,10 +12,10 @@
                                     <div class="intro-layer with_corner_border with_padding huge-padding"
                                         data-animation="slideExpandUp">
                                         <h5 class="thin"> Our researchers are focused on </h5>
-                                        <h2 class="highlight"> Developing Innovative<br> New Therapies...
+                                        <h2 class="highlight"> Advancing pharmaceutical<br> solutions worldwide...
                                         </h2>
-                                        <p> Our mission is to build a healthier tomorrow for patients<br> with progressive non-viral liver diseases </p>
-                                        <a href="#" class="theme_button color2 inverse margin_0">Discover Now</a> <span class="bottom_corners"></span>
+                                        <p> Our mission: Manufacturing and supplying innovative medicines for<br> patients with progressive non-viral liver diseases, building a healthier tomorrow. </p>
+                                        <a href="contact.php" class="theme_button color2 inverse margin_0">Discover Now</a> <span class="bottom_corners"></span>
                                     </div>
                                 </div>
                                 <!-- eof .slide_description -->
@@ -37,12 +37,10 @@
                                     <div class="intro-layer with_corner_border with_padding huge-padding"
                                         data-animation="slideExpandUp">
                                         <h5 class="thin"> We will Help You </h5>
-                                        <h2 class="highlight"> To Live Healthy Life </h2>
+                                        <h2 class="highlight"> Driving excellence <br>in pharmaceuticals </h2>
                                         <p> Our mission is to build a healthier tomorrow for patients<br>
-                                            with progressive non-viral liver diseases </p> <a
-                                            href="#"
-                                            class="theme_button color2 inverse margin_0">
-                                            Discover Now
+                                            with progressive non-viral liver diseases </p>
+                                             <a href="contact.php" class="theme_button color2 inverse margin_0"> Discover Now
                                         </a> <span class="bottom_corners"></span>
                                     </div>
                                 </div>
@@ -65,13 +63,9 @@
                                     <div class="intro-layer with_corner_border with_padding huge-padding"
                                         data-animation="slideExpandUp">
                                         <h5 class="thin"> We are dedicated to the </h5>
-                                        <h2 class="highlight"> Discovery, Development &amp;<br>
-                                            Commercialization </h2>
-                                        <p> Of innovative therapies intended to significantly improve
-                                            outcomes in patients<br> suffering from life-threatening
-                                            diseases. </p> <a href="#"
-                                            class="theme_button color2 inverse margin_0">
-                                            Discover Now
+                                        <h2 class="highlight"> Leading the future <br>of medicine</h2>
+                                        <p>Empowering patients with life-threatening diseases through innovative<br> online therapies for significantly improved outcomes</p>
+                                         <a href="contact.php" class="theme_button color2 inverse margin_0"> Discover Now
                                         </a> <span class="bottom_corners"></span>
                                     </div>
                                 </div>
