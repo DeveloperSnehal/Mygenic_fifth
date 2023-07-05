@@ -9699,7 +9699,31 @@ body.active-side-header.slide-right .page_header_side {
 }
 
 .page_breadcrumbs.parallax {
-    background-image: url(../img/parallax/features.jpg)
+    background-image: url(../img/parallax/About-us.jpg)
+}
+.page_breadcrumbs_product.parallax {
+    background-image: url(../img/parallax/Ourproduct.jpg)
+}
+.page_breadcrumbs_Manufacturer.parallax {
+    background-image: url(../img/parallax/Manufacturer.jpg)
+}
+.page_breadcrumbs_thirdparty.parallax {
+    background-image: url(../img/parallax/Third-party.jpg)
+}
+.page_breadcrumbs_QualityMedicine.parallax {
+    background-image: url(../img/parallax/QualityMedicine.jpg)
+}
+.page_breadcrumbs_Leading.parallax {
+    background-image: url(../img/parallax/Leading.jpg)
+}
+.page_breadcrumbs_Research.parallax {
+    background-image: url(../img/parallax/Research.jpg)
+}
+.page_breadcrumbs_How-We-Do.parallax {
+    background-image: url(../img/parallax/How-We-Do.jpg)
+}
+.page_breadcrumbs_Contact-Us.parallax {
+    background-image: url(../img/parallax/Contact-Us.jpg)
 }
 
 .page_testimonials.parallax {

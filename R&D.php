@@ -1,6 +1,6 @@
 <?php include("header.php"); ?>
 
-<section class="page_breadcrumbs ds color parallax section_padding_top_75 section_padding_bottom_75">
+<section class="page_breadcrumbs_Research ds color parallax section_padding_top_75 section_padding_bottom_75">
     <div class="container">
         <div class="row">
             <div class="col-sm-12 text-center">
