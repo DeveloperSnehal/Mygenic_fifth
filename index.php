@@ -3,7 +3,7 @@
 <section class="intro_section page_mainslider ds color">
     <div class="flexslider" data-dots="true" data-nav="false">
         <ul class="slides">
-            <li> <img src="images/slide01.jpg" alt="">
+            <li> <img src="images/bannerslide01.jpg" alt="">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-12 text-center">
