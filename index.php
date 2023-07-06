@@ -96,7 +96,7 @@
                 <div class="teaser hover_icon with_padding big-padding with_border rounded text-center">
                     <div class="teaser_icon size_big highlight"> <i class="rt-icon2-settings"></i> </div>
                     <h4 class="topmargin_20 hover-color2"><a href="contractmanufacturer.php">Manufacturing</a></h4>
-                    <p class="content-3lines-ellipsis">MyGenic Healthcare Private Limited may manufacture a range of pharmaceutical products including tablets, injections, and anti-cancer capsules.</p>
+                    <p class="content-3lines-ellipsis">MyGenic Healthcare Pvt. Ltd. specializes in manufacturing different types of medicines like tablets, injections, and capsules. These medicines are specially created to fight against cancer.</p>
                     <p class="topmargin_30 bottommargin_0"> <a href="contractmanufacturer.php" class="theme_button color2 inverse min_width_button">Explore More</a> </p>
                 </div>
             </div>
@@ -104,7 +104,7 @@
                 <div class="teaser hover_icon with_padding big-padding with_border rounded text-center with_corner_border">
                     <div class="teaser_icon size_big highlight"> <i class="rt-icon2-global"></i> </div>
                     <h4 class="topmargin_20 hover-color2"><a href="leadingpharma.php">Exporting</a></h4>
-                    <p class="content-3lines-ellipsis">By developing effective processes and partnerships, the company can efficiently export their pharmaceutical products to a range of global markets.</p>
+                    <p class="content-3lines-ellipsis">By implementing smart techniques and building strong alliances, the company effortlessly delivers its medical products to numerous countries across the globe.</p>
                     <p class="topmargin_30 bottommargin_0"> <a href="leadingpharma.php" class="theme_button color2 min_width_button">Explore More</a> </p> <span class="bottom_corners"></span>
                 </div>
             </div>
@@ -112,7 +112,7 @@
                 <div class="teaser hover_icon with_padding big-padding with_border rounded text-center">
                     <div class="teaser_icon size_big highlight"> <i class="rt-icon2-lab2"></i> </div>
                     <h4 class="topmargin_20 hover-color2"><a href="qualitymedicine.php">Quality Control</a></h4>
-                    <p class="content-3lines-ellipsis">MyGenic Healthcare Private Limited likely has a quality control system in place to ensure that their products meet industry standards and regulations.</p>
+                    <p class="content-3lines-ellipsis">MyGenic Healthcare Pvt. Ltd. probably has a well-structured system to ensure the high quality of its products. This system plays a crucial role in ensuring that its products meet all the necessary standards and regulations defined by the industry.</p>
                     <p class="topmargin_30 bottommargin_0"> <a href="qualitymedicine.php" class="theme_button color2 inverse min_width_button">Explore More</a> </p>
                 </div>
             </div>
@@ -128,9 +128,9 @@
             <div class="col-md-6 col-md-pull-6 display_table_cell_md">
                 <h2 class="section_header">Introduction</h2>
                 <p class="highlight bottommargin_20"><strong>We have experties in pharmaceutical products from 25 years!</strong></p>
-                <p>Established at Navi Mumbai (Maharashtra), We,“MyGenic Healthcare Private Limited” are one of the leading Exporter of a premium range of Pharmaceutical Tablets, Pharmaceutical Injection & Anti Cancer Capsules and many more.</p>
-                <p>MyGenic Healthcare Private Limited is a reputable company that specializes in the production and export of high-quality pharmaceutical products. We are based in Navi Mumbai, Maharashtra, and have gained a strong foothold in the industry through our commitment to providing superior products and services to our clients.</p>
-                <p>We offer a wide range of pharmaceutical products, including tablets, injections, capsules, and more. Our products are manufactured in state-of-the-art facilities using the latest technology and in strict adherence to industry regulations and quality standards. This ensures that our products are safe, effective, and of the highest quality.</p>
+                <p>MyGenic Healthcare Pvt. Ltd. is a well-known company located in Navi Mumbai, Maharashtra. We are well-known for being a leading exporter of top-notch pharmaceutical products. Our main focus is on producing and exporting high-quality tablets, injections, anti-cancer capsules, and related items. </p>
+                <p>We have earned a strong reputation in the industry by consistently providing excellent products and services to our valued customers. Our dedication to delivering excellence has helped us establish a significant presence in the market.</p>
+                <p>At MyGenic Healthcare Pvt. Ltd., we offer a diverse range of pharmaceutical products to meet various needs. Our advanced facilities utilize the latest technology, ensuring precise manufacturing of our products. We strictly adhere to industry regulations and quality standards throughout the production process. This guarantees that our products are not only safe but also highly effective, meeting the highest standards of quality.</p>
             </div>
         </div>
     </div>
@@ -252,8 +252,8 @@
 						<div class="col-md-7">
 							<div class="item-content">
 								<h2 class="entry-title"> <a href="#">WHO WE ARE?</a> </h2>
-								<p><strong>We are a pharmaceutical company that is committed to improving the health and wellbeing of people globally. Our team of experienced professionals includes scientists, researchers, and pharmaceutical experts who are dedicated to developing innovative solutions to address some of the most pressing healthcare issues of our time.</strong></p>
-                                <p><strong>We specialize in the development, manufacturing, and distribution of high-quality pharmaceutical products that meet the needs of patients, healthcare providers, and partners worldwide. Our products are made using the latest technologies and adhere to strict quality control measures to ensure safety and efficacy.</strong></p>
+								<p><strong>We are a dedicated pharmaceutical company with a mission to improve the well-being of people worldwide. Our team comprises skilled professionals in the fields of science, research, and pharmaceuticals who collaborate to develop innovative solutions for critical healthcare challenges.</strong></p>
+                                <p><strong>Our primary expertise lies in the creation, manufacturing, and distribution of outstanding pharmaceutical products. These products are specifically designed to meet the requirements of patients, healthcare professionals, and partners across the world. By leveraging cutting-edge technologies and implementing stringent quality checks, we ensure that our products are both safe and effective.</strong></p>
 							</div>
 						</div>
 					</div>

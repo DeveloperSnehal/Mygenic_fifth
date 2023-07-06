@@ -22,8 +22,8 @@
             </div>
             <div class="col-sm-6">
                <h2 class="section_header">Our Purpose</h2>
-                <p>Enriching Lives, that’s not only our prime priority, it is our only priority! Making a difference to our patients’ lives is our unwavering commitment. To ensure this, our core strategy is to find the best collaborative solution for the development of each product.</p>
-                <p>We, at MyGenic, work persistently towards the production of apex quality generic products, branded generics, specialty products, active pharmaceutical ingredients and nutraceuticals, which are marketed in India as well as globally.</p>
+                <p>At MyGenic, our main and only goal is to improve the lives of people. We are fully committed to making a positive impact on the well-being of our patients. To accomplish this, our primary strategy is to collaborate with experts and find the best solutions for developing each product.</p>
+                <p>At MyGenic, we work tirelessly to create top-quality generic products, branded generics, specialty products, active pharmaceutical ingredients, and nutraceuticals. These products are not only available in India but are also marketed globally.</p>
             </div>
         </div>
     </div>
@@ -34,9 +34,9 @@
         <div class="row">
             <div class="col-sm-6">
                <h2 class="section_header">Research Facilities</h2>
-                <p>Our team of researchers include over 500+ competent individuals, who are stationed at our Six different R&D centres located in India and USA. Together, they power our enviable expertise in developing generics, transdermal drug delivery systems, oral films, difficult-to-produce technology intensive products and Novel Drug Delivery Systems (NDDS). We have dedicated teams for process development and packaging development.</p>
-                <p>Our research strategy and implementation is strongly supported by our proficient Intellectual Property (IP) team. Our IP team commands a strong expertise and hold rich experience in chemistry, analytical techniques, dosage forms and global patent law. Over the last decade, we have been consistently challenging patents on several high-value products in the US with First-to-File exclusivity under Hatch-Waxman Act. This helps us in furnishing high-quality generic versions of such products at reasonable costs. Our IP team continuously strives to capture new developments across the company and protects them as an intellectual property.</p>
-                <p>Our R&D centres have been audited and approved by international regulatory authorities, including the US FDA, European, Australian and various other authorities.</p>
+                <p>We have a team of over 500 skilled researchers working across our six research and development (R&D) centers in India and the USA. They contribute their expertise to develop various types of medicines, including generics, transdermal drug delivery systems, oral films, complex technology-based products, and Novel Drug Delivery Systems (NDDS). We have dedicated teams for both process development and packaging development.</p>
+                <p>To support our research endeavors, we have a capable Intellectual Property (IP) team. This team possesses strong expertise in chemistry, analytical techniques, dosage forms, and global patent law. Over the past 10 years, we have consistently challenged patents on valuable products in the US. This has allowed us to provide high-quality generic versions of those products at affordable prices. Our IP team remains vigilant in monitoring and protecting new developments within the company as intellectual property.</p>
+                <p>Our R&D centers have successfully undergone audits and received approvals from international regulatory authorities. These authorities include the US FDA, European authorities, Australian authorities, and others. This demonstrates our commitment to maintaining high standards of quality and compliance in our research and development processes.</p>
             </div>
             <div class="col-sm-6 align-middle" style="display: grid; justify-items: center;">
               <img src="images\services\contract manufacturer 2.jpg" alt="" style="width: 75%;">
@@ -53,7 +53,8 @@
             </div>
             <div class="col-sm-6">
                <h2 class="section_header">Achievements</h2>
-                <p>Our R&D Centre has developed products and filed over 150 ANDAs with USA FDA, close to 70 products with TGA Australia, around 40 products for EU and many dossiers in other countries including Brazil, South Africa, Canada, Chile and rest of the world. Our research capabilities has paid dividends not only in terms of business but with an enviable reputation for quality and capability.</p>
+                <p>At our Research and Development (R&D) Center, we have achieved significant milestones. We have successfully created and submitted over 150 Abbreviated New Drug Applications (ANDAs) to the US FDA (Food and Drug Administration). Additionally, we have developed nearly 70 products for TGA Australia (Therapeutic Goods Administration), around 40 products for the European Union (EU), and numerous dossiers for countries like Brazil, South Africa, Canada, Chile, and more worldwide.</p>
+                <p>These achievements highlight our strong research capabilities and have brought us both business success and a reputation for delivering high-quality products. We are proud of our accomplishments and continue to strive for excellence in our research and development efforts.</p>
             </div>
         </div>
     </div>
