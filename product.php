@@ -46,7 +46,7 @@
                             </div>
                             <div class="product-bottom">
                                 <div class="product-name"><?php echo $row['category_name']; ?></div>
-                                <a href="category.php?category_id=<?php echo $row['category_id']; ?>" class="blue-btn">View category</a>
+                                <a href="category.php?category_id=<?php echo $row['category_id']; ?>" class="blue-btn" style="font-weight:10;">View category</a>
                             </div>
                         </div>
                     </div>
