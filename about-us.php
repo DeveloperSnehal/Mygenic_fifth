@@ -95,10 +95,10 @@
 </section>
 
 <!--------------------------------FACTSHEET---------------------------------------------->
-<section id="ourproducts" style="background-color:#fff;">
+<!-- <section id="ourproducts" style="background-color:#fff;">
 	<div class="container">
 		<div class="row">
-			<!-------------second-colum----------------->
+			<!-------------second-colum-----------------
 			<div class="col-lg-12 col-md-12 col-sm-12 mt-2 card" data-aos="flip-left" data-aos-easing="ease-out-cubic"
 				data-aos-duration="2000">
 				<div class="row">
@@ -284,7 +284,7 @@
 		</div>
 	</div>
 </section>
-</section>
+</section> -->
 
 <section class="ls section_padding_top_150 section_padding_bottom_150">
    <div class="row">

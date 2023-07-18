@@ -271,25 +271,25 @@
                 <h2 class="section_header text-center"> Our Happy Clients </h2>
                 <div class="owl-carousel" data-responsive-lg="3" data-nav="false" data-dots="true">
                     <blockquote class="with_border with_padding text-center rounded">
-                         <img src="images\testimonials\testimonial-1.png" alt=""> The team at MyGenic Healthcare responded quickly to an urgent project request. Our project timelines were jeopardized by an unforeseen issue with another vendor and MyGenic came to the rescue.
-                        <div class="item-meta">
+                         <img src="images\testimonials\profile1.png" alt=""> The team at MyGenic Healthcare responded quickly to an urgent project request. Our project timelines were jeopardized by an unforeseen issue with another vendor and MyGenic came to the rescue.
+                        <!-- <div class="item-meta">
                             <h5 class="highlight hover-dark-color"><a href="#">Jatin Chopra</a></h5>
                             <p class="highlight2">Production Executive</p>
-                        </div>
+                        </div> -->
                     </blockquote>
                     <blockquote class="ls with_border with_padding text-center rounded">
-                         <img src="images\testimonials\testimonial-2.png" alt=""> In my first project with MyGenic Healthcare I was so impressed with their responsiveness and scientific approach to issues that I have them at the top of my list for quoting on any work in their wheelhouse.
-                        <div class="item-meta">
+                         <img src="images\testimonials\profile2.png" alt=""> In my first project with MyGenic Healthcare I was so impressed with their responsiveness and scientific approach to issues that I have them at the top of my list for quoting on any work in their wheelhouse.
+                        <!-- <div class="item-meta">
                             <h5 class="highlight hover-dark-color"><a href="#">Shweta Chavhan</a></h5>
                             <p class="highlight2">Analytical Chemist</p>
-                        </div>
+                        </div> -->
                     </blockquote>
                     <blockquote class="with_border with_padding text-center rounded">
-                         <img src="images\testimonials\testimonial-3.png" alt=""> MyGenic Healthcare came to our rescue and allowed us to get our Phase I trial back on track after a well-known CDMO failed to release our CTM. We are now recruiting patients, thanks to MyGenic Healthcare!.
-                        <div class="item-meta">
+                         <img src="images\testimonials\profile1.png" alt=""> MyGenic Healthcare came to our rescue and allowed us to get our Phase I trial back on track after a well-known CDMO failed to release our CTM. We are now recruiting patients, thanks to MyGenic Healthcare!.
+                        <!-- <div class="item-meta">
                             <h5 class="highlight hover-dark-color"><a href="#">Nikhil Shinde</a></h5>
                             <p class="highlight2">R and D chemist</p>
-                        </div>
+                        </div> -->
                     </blockquote>
                 </div>
             </div>
@@ -297,7 +297,7 @@
     </div>
 </section>
 
-<section class="ls page_portfolio section_padding_top_150 section_padding_bottom_130">
+<!-- <section class="ls page_portfolio section_padding_top_150 section_padding_bottom_130">
     <div class="row">
         <div class="col-sm-12 text-center" style="padding-top: 70px;">
           <h2 class="section_header"> Our Team </h2>
@@ -348,11 +348,11 @@
 						</div>
 					</div>
 				</div>
-				<!-- eof .isotope_container.row -->
+				<!-- eof .isotope_container.row -
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 
 <section id="clientel" class="cs gradient section_padding_top_50 section_padding_bottom_50">
     <div class="container-fluid" style="padding:0px;">
