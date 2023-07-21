@@ -18,6 +18,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
 	<link rel="stylesheet" href="css/animations.css">
 	<link rel="stylesheet" href="css/fonts.css">
 	<link rel="stylesheet" href="css/main.css" class="color-switcher-link">
@@ -68,6 +69,13 @@
 			<section class="page_topline cs main_color2 table_section table_section_sm section_padding_top_5 section_padding_bottom_5">
 				<div class="container">
 					<div class="row">
+					<div class="col-sm text-sm-right text-lg-left greylinks">
+							 <span class="rightpadding_10"><i class="bi bi-geo-alt-fill"></i> Location:-<a class="" href="#"> Sector 35 Dolphin Platinum Kamothe, Navi Mumbai, Maharashtra, India</a></span>
+                        </div>
+					  <div class="col-sm text-sm-right text-lg-left greylinks">
+							 <span class="rightpadding_10"><i class="bi bi-telephone-fill"></i> Call us:-<a class="" href="callto:+91 9867592446" title="+91 9867592446"> +91 9867592446</a></span>
+							 <span class="rightpadding_10"><i class="bi bi-envelope-fill"></i> Email:-<a class="" href="mailto:feedback@geeksforgeeks.org">info@mygenichealthcare.com</a></span>
+                        </div>
 						<div class="col-sm text-center text-sm-right greylinks"> <span class="rightpadding_10">Follow Us:</span>
                           <a class="social-icon color-icon soc-facebook" href="#" title="Facebook"></a>
                           <a class="social-icon color-icon soc-twitter" href="#" title="Twitter"></a>
