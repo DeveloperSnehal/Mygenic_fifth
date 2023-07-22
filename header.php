@@ -69,14 +69,13 @@
 			<section class="page_topline cs main_color2 table_section table_section_sm section_padding_top_5 section_padding_bottom_5">
 				<div class="container">
 					<div class="row">
-					<div class="col-sm text-sm-right text-lg-left greylinks">
-							 <span class="rightpadding_10"><i class="bi bi-geo-alt-fill"></i> Location:-<a class="" href="#"> Sector 35 Dolphin Platinum Kamothe, Navi Mumbai, Maharashtra, India</a></span>
-                        </div>
-					  <div class="col-sm text-sm-right text-lg-left greylinks">
+					  <div class="col-sm text-center text-md-center  greylinks">
 							 <span class="rightpadding_10"><i class="bi bi-telephone-fill"></i> Call us:-<a class="" href="callto:+91 9867592446" title="+91 9867592446"> +91 9867592446</a></span>
+                        </div>
+						<div class="col-sm text-center text-md-center  greylinks">
 							 <span class="rightpadding_10"><i class="bi bi-envelope-fill"></i> Email:-<a class="" href="mailto:feedback@geeksforgeeks.org">info@mygenichealthcare.com</a></span>
                         </div>
-						<div class="col-sm text-center text-sm-right greylinks"> <span class="rightpadding_10">Follow Us:</span>
+						<div class="col-sm text-center text-md-center text-sm-left greylinks"> <span class="rightpadding_10">Follow Us:</span>
                           <a class="social-icon color-icon soc-facebook" href="#" title="Facebook"></a>
                           <a class="social-icon color-icon soc-twitter" href="#" title="Twitter"></a>
                           <a class="social-icon color-icon soc-whatsapp" href="#" title="whatsapp"></a>
@@ -87,71 +86,49 @@
 				</div>
 			</section>
 			<section class="page_toplogo table_section table_section_md ls section_padding_top_25 section_padding_bottom_25">
-				<div class="container">
+				<div class="container" style="padding-bottom:0px; padding-top:0px">
 					<div class="row">
-						<div class="col-md-3 text-center text-md-left"> <a href="index.php" class="logo top_logo">
+						<div class="col-md-3 text-center"> <a href="index.php" class="logo top_logo">
                     <img src="images\logo\mygenic_logo.png" alt="">
-                </a> </div>
+                    </a> </div>
 						<div class="col-md-9 text-center text-md-right">
 							<div class="inline-teasers-wrap">
-								<div class="teaser small-teaser media">
-									<div class="media-left media-middle">
-										<div class="teaser_icon size_small border_icon highlight2 rounded"> <i class="rt-icon2-pen"></i> </div>
-									</div>
-									<div class="media-body media-middle">
-										<h4>+91 9867592446</h4>
-										<p class="greylinks fontsize_12"> <a href="#"><span class="__cf_email__" data-cfemail="64140c05160905070b0924011c05091408014a070b09">info@mygenichealthcare.com</span></a> </p>
-									</div>
-								</div>
-								<div class="teaser small-teaser media">
-									<div class="media-left media-middle">
-										<div class="teaser_icon size_small border_icon highlight2 rounded"> <i class="rt-icon2-map-pin"></i> </div>
-									</div>
-									<div class="media-body media-middle">
-										<h4>Office No- 2</h4>
-										<p class="greylinks fontsize_12"> Navi Mumbai, Maharashtra, India </p>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>
-			<header class="page_header header_color toggler_left">
-				<div class="container">
-					<div class="row">
-						<div class="col-sm-12 display_table">
-							<div class="header_mainmenu display_table_cell">
-								<!-- main nav start -->
-								<nav class="mainmenu_wrapper">
-									<ul class="mainmenu nav sf-menu">
-										<li class="active"> <a href="index.php">Home</a></li>
-										<li> <a href="about-us.php">About Us</a></li>
-										<!-- eof pages -->
-										<li> <a href="product.php">Our Products</a></li>
-										<!-- gallery -->
-										<li> <a href="#">Services</a>
-                                          <ul>
-												<li> <a href="contractmanufacturer.php">Contract Manufacturer</a> </li>
-												<li> <a href="thirdparty.php">Third Party Pharma Manufacturer</a> </li>
-												<li> <a href="qualitymedicine.php">Quality Medicine Supplier</a> </li>
-												<li> <a href="leadingpharma.php">Leading Pharmaceutical Exporter</a> </li>
-												<li> <a href="R&D.php">Research And Development</a> </li>
-											</ul>
-										</li>
-										<!-- eof Gallery -->
-										<!-- blog -->
-										<li> <a href="howwedo.php">How We Do?</a></li>
-										<!-- eof blog -->
-										<!-- contacts -->
-										<li> <a href="contact.php">Contacts</a></li>
-										<!-- eof contacts -->
-									</ul>
-								</nav>
-								<!-- eof main nav -->
-								<!-- header toggler --><span class="toggle_menu"><span></span></span>
-							</div>
-						</div>
-					</div>
-				</div>
-			</header>
+							  <header class="page_header header_color toggler_left" style="background-color: #fff;">
+								 <div class="col-sm-12 display_table">
+									 <div class="header_mainmenu display_table_cell" style="text-align: center;">
+										 <!-- main nav start -->
+										 <nav class="mainmenu_wrapper">
+											 <ul class="mainmenu nav sf-menu">
+												 <li class="active"> <a href="index.php">Home</a></li>
+												 <li> <a href="about-us.php">About Us</a></li>
+												 <!-- eof pages -->
+												 <li> <a href="product.php">Our Products</a></li>
+												 <!-- gallery -->
+												 <li> <a href="#">Services</a>
+												 <ul>
+																<li> <a href="contractmanufacturer.php">Contract Manufacturer</a> </li>
+																<li> <a href="thirdparty.php">Third Party Pharma Manufacturer</a> </li>
+																<li> <a href="qualitymedicine.php">Quality Medicine Supplier</a> </li>
+																<li> <a href="leadingpharma.php">Leading Pharmaceutical Exporter</a> </li>
+																<li> <a href="R&D.php">Research And Development</a> </li>
+															</ul>
+												 </li>
+												 <!-- eof Gallery -->
+												 <!-- blog -->
+												 <li> <a href="howwedo.php">How We Do?</a></li>
+												 <!-- eof blog -->
+												 <!-- contacts -->
+												 <li> <a href="contact.php">Contacts</a></li>
+												 <!-- eof contacts -->
+											 </ul>
+										 </nav>
+										 <!-- eof main nav -->
+										 <!-- header toggler --><span class="toggle_menu"><span></span></span>
+									 </div>
+								 </div>
+			                 </header>
+						 </div>
+					  </div>
+				  </div>
+			  </div>
+		 </section>

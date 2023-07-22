@@ -4,80 +4,12 @@
     <div class="flexslider" data-dots="true" data-nav="false">
         <ul class="slides">
             <li> <img src="images/bannerslide01.jpg" alt="">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-12 text-center">
-                            <div class="slide_description_wrapper">
-                                <div class="slide_description">
-                                    <div class="intro-layer with_corner_border with_padding huge-padding"
-                                        data-animation="slideExpandUp">
-                                        <h5 class="thin"> Our researchers are focused on </h5>
-                                        <h2 class="highlight"> Advancing pharmaceutical<br> solutions worldwide...
-                                        </h2>
-                                        <p> Our mission: Manufacturing and supplying innovative medicines for<br> patients with progressive non-viral liver diseases, building a healthier tomorrow. </p>
-                                        <a href="contact.php" class="theme_button color2 inverse margin_0">Discover Now</a> <span class="bottom_corners"></span>
-                                    </div>
-                                </div>
-                                <!-- eof .slide_description -->
-                            </div>
-                            <!-- eof .slide_description_wrapper -->
-                        </div>
-                        <!-- eof .col-* -->
-                    </div>
-                    <!-- eof .row -->
-                </div>
-                <!-- eof .container -->
             </li>
             <li> <img src="images/slide02.jpg" alt="">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-12 text-center">
-                            <div class="slide_description_wrapper">
-                                <div class="slide_description">
-                                    <div class="intro-layer with_corner_border with_padding huge-padding"
-                                        data-animation="slideExpandUp">
-                                        <h5 class="thin"> We will Help You </h5>
-                                        <h2 class="highlight"> Driving excellence <br>in pharmaceuticals </h2>
-                                        <p> Our mission is to build a healthier tomorrow for patients<br>
-                                            with progressive non-viral liver diseases </p>
-                                             <a href="contact.php" class="theme_button color2 inverse margin_0"> Discover Now
-                                        </a> <span class="bottom_corners"></span>
-                                    </div>
-                                </div>
-                                <!-- eof .slide_description -->
-                            </div>
-                            <!-- eof .slide_description_wrapper -->
-                        </div>
-                        <!-- eof .col-* -->
-                    </div>
-                    <!-- eof .row -->
-                </div>
-                <!-- eof .container -->
+
             </li>
             <li> <img src="images/slide03.jpg" alt="">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-sm-12 text-center">
-                            <div class="slide_description_wrapper">
-                                <div class="slide_description">
-                                    <div class="intro-layer with_corner_border with_padding huge-padding"
-                                        data-animation="slideExpandUp">
-                                        <h5 class="thin"> We are dedicated to the </h5>
-                                        <h2 class="highlight"> Leading the future <br>of medicine</h2>
-                                        <p>Empowering patients with life-threatening diseases through innovative<br> online therapies for significantly improved outcomes</p>
-                                         <a href="contact.php" class="theme_button color2 inverse margin_0"> Discover Now
-                                        </a> <span class="bottom_corners"></span>
-                                    </div>
-                                </div>
-                                <!-- eof .slide_description -->
-                            </div>
-                            <!-- eof .slide_description_wrapper -->
-                        </div>
-                        <!-- eof .col-* -->
-                    </div>
-                    <!-- eof .row -->
-                </div>
-                <!-- eof .container -->
+
             </li>
         </ul>
     </div>

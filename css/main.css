@@ -6809,12 +6809,12 @@ body.boxed {
 }
 
 .logo img {
-    max-width: 300px
+    max-width: 200px
 }
 
 @media(max-width:1199px) {
     .logo img {
-        max-width: 200px
+        max-width: 150px
     }
 }
 
@@ -7843,7 +7843,7 @@ body.active-side-header.slide-right .page_header_side {
 }
 
 .ls a:hover {
-    color: #1f232b
+    color: #fff;
 }
 
 .ls .color-icon.bg-icon {
@@ -9843,7 +9843,7 @@ section .intro_section .slide_description_wrapper {
 }
 
 .intro_section.ds img {
-    opacity: .3
+    opacity: 0.5;
 }
 
 .intro_section .flexslider:before,
@@ -10012,8 +10012,8 @@ section .intro_section .slide_description_wrapper {
     .intro_section .flex-custom-nav {
         position: static;
         text-align: center;
-        margin-top: 0;
-        margin-bottom: 50px
+        margin-top: -50px;
+        /* margin-bottom: 50px */
     }
 
     .intro_section .flexslider .container {
@@ -10171,21 +10171,21 @@ section .intro_section .slide_description_wrapper {
     }
 
     .header_color ul a {
-        color: #fff
+        color: #18a0b1;
     }
 
     .header_color ul li.active>a {
-        color: #11333a
+        color:#ed6f1e;
     }
 
     .header_color ul li.active>a,
     .header_color .sf-menu a:hover {
-        color: #11333a
+        color: #ed6f1e;
     }
 
     .header_color .sf-menu li>ul,
     .header_color .sf-menu>li .mega-menu {
-        background-color: #ed6f1e
+        background-color: #fff;
     }
 
     .sf-menu li:hover,
@@ -10380,7 +10380,7 @@ section .intro_section .slide_description_wrapper {
         margin-left: -30px;
         margin-top: -50px;
         width: 60px;
-        height: 60px;
+        height: 30px;
         cursor: pointer;
         z-index: 1001;
         visibility: visible
@@ -10393,8 +10393,9 @@ section .intro_section .slide_description_wrapper {
 
     .toggler_left .toggle_menu {
         right: auto;
-        left: 0;
-        margin-left: 0
+        left: 85%;
+        margin-left: 0;
+        color: #ed6f1e;
     }
 }
 
@@ -12626,11 +12627,11 @@ aside .with_padding {
     margin-top: 10px
 }
 
-.inline-teasers-wrap {
+/* .inline-teasers-wrap {
     display: inline-block;
     margin-left: -15px;
     margin-right: -15px
-}
+} */
 
 .inline-teasers-wrap>* {
     vertical-align: middle;
