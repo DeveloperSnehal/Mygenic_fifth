@@ -55,8 +55,7 @@
         </div>
         <div class="row topmargin_40">
             <div class="col-sm-12 to_animate">
-                <form class="contact-form columns_padding_5" method="post"
-                    action="https://html.modernwebtemplates.com/pharma/">
+                <form class="contact-form columns_padding_5" method="post" action="contact.php">
                     <div class="row">
                         <div class="col-sm-6">
                             <p class="form-group"> <label for="name">Full Name <span class="required">*</span></label>
@@ -67,7 +66,15 @@
                             <p class="form-group"> <label for="email">Email address<span
                                         class="required">*</span></label> <i class="fa fa-envelope highlight2"
                                     aria-hidden="true"></i> <input type="email" aria-required="true" size="30" value=""
-                                    name="email" id="email" class="form-control" placeholder="Email Address"> </p>
+                                    name="email" id="email" class="form-control" placeholder="Email Address">
+                             </p>
+
+                             <p class="form-group"> <label for="email">Contact No<span
+                                        class="required">*</span></label> <i class="fa fa-envelope highlight2"
+                                    aria-hidden="true"></i> <input type="email" aria-required="true" size="30" value=""
+                                    name="email" id="email" class="form-control" placeholder="Contact No">
+                             </p>
+
                             <p class="form-group"> <label for="subject">Subject<span class="required">*</span></label>
                                 <i class="fa fa-flag highlight2" aria-hidden="true"></i> <input type="text"
                                     aria-required="true" size="30" value="" name="subject" id="subject"
@@ -78,7 +85,8 @@
                             <p class="contact-form-message form-group"> <label for="message">Message</label> <i
                                     class="fa fa-comment highlight2" aria-hidden="true"></i> <textarea
                                     aria-required="true" rows="3" cols="45" name="message" id="message"
-                                    class="form-control" placeholder="Message"></textarea> </p>
+                                    class="form-control" placeholder="Message"></textarea>
+                             </p>
                         </div>
                     </div>
                     <div class="row">
@@ -93,5 +101,59 @@
         </div>
     </div>
 </section>
+
+<!-----Mailer-Function----->
+
+<?php
+
+//Import PHPMailer classes into the global namespace
+//These must be at the top of your script, not inside a function
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\SMTP;
+use PHPMailer\PHPMailer\Exception;
+
+if (isset($_POST['submit'])) { // Changed the name to "submit"
+    $name = $_POST['name'];
+    $email = $_POST['email'];
+    $tel = $_POST['tel'];
+    $subject = $_POST['subject'];
+    $message = $_POST['message'];
+
+
+    //Load Composer's autoloader
+    require 'phpmailer/Exception.php';
+    require 'phpmailer/PHPMailer.php';
+    require 'phpmailer/SMTP.php';
+
+    //Create an instance; passing `true` enables exceptions
+    $mail = new PHPMailer(true);
+
+    try {
+        //Server settings
+        $mail->isSMTP(); //Send using SMTP
+        $mail->Host = 'smtp.gmail.com'; //Set the SMTP server to send through
+        $mail->SMTPAuth = true; //Enable SMTP authentication
+        $mail->Username = 'developer.creativemarque@gmail.com'; //SMTP username
+        $mail->Password = 'pcdmgrngpaihiojh'; //SMTP password
+        $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS; //Enable implicit TLS encryption
+        $mail->Port = 465; //TCP port to connect to; use 587 if you have set `SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS`
+
+        //Recipients
+        $mail->setFrom('developer.creativemarque@gmail.com', 'Mailer');
+        $mail->addAddress('developer.creativemarque@gmail.com', 'MyGenic Contact'); //Add a recipient
+
+
+        //Content
+        $mail->isHTML(true); //Set email format to HTML
+        $mail->Subject = 'Contact Form Mygenic UK Site';
+        $mail->Body = "Sender Name - $name <br> Sender Email - $email <br> Sender Phone No - $tel <br> Subject - $subject <br> Message - $message";
+
+        $mail->send();
+        echo 'Message has been sent';
+    } catch (Exception $e) {
+        echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
+    }
+}
+?>
 
 <?php include("footer.php") ?>
