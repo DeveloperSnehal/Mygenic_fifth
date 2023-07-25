@@ -72,7 +72,7 @@
                              <p class="form-group"> <label for="email">Contact No<span
                                         class="required">*</span></label> <i class="fa fa-envelope highlight2"
                                     aria-hidden="true"></i> <input type="email" aria-required="true" size="30" value=""
-                                    name="email" id="email" class="form-control" placeholder="Contact No">
+                                    name="tel" id="email" class="form-control" placeholder="Contact No">
                              </p>
 
                             <p class="form-group"> <label for="subject">Subject<span class="required">*</span></label>
@@ -112,7 +112,7 @@ use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 use PHPMailer\PHPMailer\Exception;
 
-if (isset($_POST['submit'])) { // Changed the name to "submit"
+if (isset($_POST['contact_submit'])) { // Changed the name to "submit"
     $name = $_POST['name'];
     $email = $_POST['email'];
     $tel = $_POST['tel'];
